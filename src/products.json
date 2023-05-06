@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "imageURL": "./assets/images/orangecan2.png",
+      "name": "Orange Squeeze",
+      "price": "$6.99",
+      "color": "#FB924E"
+    },
+    {
+      "imageURL": "./assets/images/grapecan.png",
+      "name": "Classic Grape",
+      "price": "$6.99",
+      "color": "#d798eb"
+    },
+    {
+      "imageURL": "./assets/images/strawberrycan.png",
+      "name": "Strawberry Vanilla",
+      "price": "$6.99",
+      "color": "#FFA58D"
+    },
+    {
+      "imageURL": "./assets/images/gingercan.png",
+      "name": "Ginger Lemon",
+      "price": "$6.99",
+      "color": "#F7CA27"
+    },
+    {
+      "imageURL": "./assets/images/watermeloncan.png",
+      "name": "Watermelon Lime",
+      "price": "$6.99",
+      "color": "#85C062"
+    },
+    {
+      "imageURL": "./assets/images/bananacan.png",
+      "name": "Banana Cream",
+      "price": "$6.99",
+      "color": "#FEDB01"
+    },
+    {
+      "imageURL": "./assets/images/lemoncan.png",
+      "name": "Lemon Lime",
+      "price": "$6.99",
+      "color": "#3BA54D"
+    },
+    {
+      "imageURL": "./assets/images/creamcan.png",
+      "name": "Cream Soda",
+      "price": "$6.99",
+      "color": "#4AC1E0"
+    },
+    {
+      "imageURL": "./assets/images/rootcan.png",
+      "name": "Classic Root Beer",
+      "price": "$6.99",
+      "color": "#F8D5C0"
+    },
+    {
+      "imageURL": "./assets/images/colacan.png",
+      "name": "Vintage Cola",
+      "price": "$6.99",
+      "color": "#EF421A"
+    },
+    {
+      "imageURL": "./assets/images/cherrycan.png",
+      "name": "Cherry Cola",
+      "price": "$6.99",
+      "color": "#821E20"
+    },
+    {
+      "imageURL": "./assets/images/tropicalcan.png",
+      "name": "Tropical Punch",
+      "price": "$6.99",
+      "color": "#CAE6E8"
+    },
+    {
+      "imageURL": "./assets/images/doctorcan.png",
+      "name": "Doctor Goodwin",
+      "price": "$6.99",
+      "color": "#E0A870"
+    },
+    {
+      "imageURL": "./assets/images/vanillacan.png",
+      "name": "Cherry Vannilla",
+      "price": "$6.99",
+      "color": "#FFC1D4"
+    }
+  ]
+}
